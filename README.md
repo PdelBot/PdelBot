@@ -43,16 +43,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PdelBot&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PdelBot&layout=compact&theme=radical" alt="Top Langs"/>
-  <img src="https://streak-stats.demolab.com?user=PdelBot&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
-</p>
-
----
-
 ## 📧 Contáctame
 
 - **Correo**: [psanchez.delbot@gmail.com](mailto:psanchez.delbot@gmail.com)
