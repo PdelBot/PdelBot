@@ -1,7 +1,5 @@
 # 👋¡Hola! Soy Pedro Sánchez del Bot
 
-![Visitas al perfil](https://komarev.com/ghpvc/?username=PdelBot&color=blue)
-
 **Estudiante de 2º DAM en Salesianos Triana San Pedro** , originario de Valencina de la Concepción, con un fuerte interés por el desarrollo de software y la tecnología, con experiencia en Java, Html, Angular, .... Soy un apasionado de la música, participando en la orquesta de guitarras de Sevilla, **Proyecto GuiA**, donde llevo tocando la guitarra desde 2015. Además, fui practicante de kárate durante 8 años, lo que me enseñó disciplina y constancia.
 
 ---
